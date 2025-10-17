@@ -1,51 +1,32 @@
 
 
 
-<img width="896" height="1152" alt="baniere_professionelle" src="https://github.com/user-attachments/assets/24c1cb93-4df1-4d88-b581-cb545f7bf382" />
+<img width="891" height="453" alt="baniere_professionelle-0-1" src="https://github.com/user-attachments/assets/c5e698b0-2daf-483e-84b3-c432f15fb19c" />
 
 
 
 
 
-🌐 Bienvenue sur l'Espace GitHub de INTERNATIONALES WEB APPS & SERVICES
+
+🌐 Bienvenue sur l'Espace GitHub de INTERNATIONALES WEB APPS & SERVICES (email: internationaleswebservices@gmail.com,WhatsApp : +229 01 67 25 18 86)
 
 👋 Nous sommes une équipe d'ingénieurs passionnés par la construction de solutions logicielles robustes et évolutives. Forts de plus de 5 ans d'expérience, nous transformons les ambitions de nos clients (entreprises, startups, entrepreneurs) en succès digital grâce à une architecture logicielle rigoureuse et des produits performants.
+
 🛠 Notre Stack et Expertise Technique
 
-Notre expertise Fullstack nous permet de livrer des applications de A à Z, en choisissant toujours la technologie la plus adaptée à l'objectif métier.
+Notre expertise Fullstack nous permet de livrer des applications de developpement à la production, en choisissant toujours la technologie la plus adaptée à l'objectif métier.
 
-Domaine d'Expertise
+
+Web & E-commerce :Conception d'APIs performantes, interfaces dynamiques et plateformes rentables.
+
+Applications Métier & Mobile :Développement d'outils internes robustes et d'applications mobiles multiplateformes.
 	
 
-Technologies Clés
+Ingénierie de Données	:Fiabilité des systèmes, gestion des données complexes et optimisation des performances.
 	
 
-Rôle dans le Projet
 
-Web & E-commerce
-	
-
-PHP (Symfony), ReactJS, WordPress
-	
-
-Conception d'APIs performantes, interfaces dynamiques et plateformes rentables.
-
-Applications Métier & Mobile
-	
-
-React Native, Python (Logiciels), C/C++
-	
-
-Développement d'outils internes robustes et d'applications mobiles multiplateformes.
-
-Ingénierie de Données
-	
-
-Bases de données relationnelles & NoSQL
-	
-
-Fiabilité des systèmes, gestion des données complexes et optimisation des performances.
-🚀 Notre Philosophie : De l'Idée à l'Expérience Digitale
+ Notre Philosophie : De l'Idée à l'Expérience Digitale
 
 Notre engagement est de transformer vos idées en produits livrables (MVPs, plateformes SaaS ou logiciels sur mesure). Nous garantissons des solutions conçues pour être non seulement modernes et intuitives (UI/UX), mais surtout rentables et alignées sur votre stratégie de croissance.
 Notre Méthodologie (Focus sur l'Architecture)
