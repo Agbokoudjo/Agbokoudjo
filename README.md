@@ -6,6 +6,10 @@
 
 
 
+https://github.com/user-attachments/assets/d2835146-5984-4567-910d-b9b8a8d9bb21
+
+
+
 
 
 # 🌐 INTERNATIONALES WEB APPS & SERVICES
@@ -49,6 +53,10 @@ Notre expertise couvre le **développement full-stack**, l'**optimisation web**,
 - **Indexation optimale** et stratégies de caching pour améliorer le référencement
 
 ---
+## Découvrez quelques captures et vidéos de nos portfolios
+<img width="1000" height="500" alt="Capture du 2025-11-23 22-12-05" src="https://github.com/user-attachments/assets/228d3b43-5a2f-468e-abda-5a642f93fb19" style="margin-bottom:20px;"/>
+
+
 
 ## 🏆 Notre Approche : Rigueur Technique + Stratégie SEO
 
